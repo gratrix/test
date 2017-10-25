@@ -1,2 +1,2 @@
 # test
-Test repository
+Test repository is the best thing!
